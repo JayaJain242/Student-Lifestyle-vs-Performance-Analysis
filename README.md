@@ -33,7 +33,7 @@ Matplotlib
 Jupyter Notebook  
 
 # Files in Repository
-Student Lifestyke vs Performanve Analysis.csv is the dataset  
+Student Lifestyle vs Performance Analysis.csv is the dataset  
 student lifestyle vs performance analysis.ipynb is the analysis notebook  
 
 # Conclusion
