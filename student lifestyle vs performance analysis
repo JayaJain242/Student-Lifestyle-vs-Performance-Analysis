@@ -376,13 +376,13 @@
    "source": [
     "## Insights\n",
     "\n",
-    "1. Topper students have the highest average study hours compared to average and low-performing students.\n",
-    "2. Students with higher social media usage tend to have lower academic performance.\n",
-    "3. Average students maintain a balance between study, sleep, and social media usage.\n",
+    "1. Topper students usually study more comapred to average and low performing students.\n",
+    "2. Students who use more social media generally get lower marks.\n",
+    "3. Average students maintain a balance between study,sleep,and social media usage.\n",
     "4. There is a positive relationship between study hours and marks, as shown in the scatter plot.\n",
-    "5. Students with higher attendance tend to achieve better marks, highlighting the importance of regular class participation.\n",
-    "6. An exception case was observed where a student with low study hours still achieved high marks, indicating that performance is influenced by multiple factors.\n",
-    "7. The scatter plot shows a general trend but with scattered points, suggesting that performance is not solely dependent on study hours."
+    "5. Students with higher attendance usually score better marks.\n",
+    "6. One exception was seen where a student studied less but still scored high marks, showing that other factors also matter.\n",
+    "7. The scatter plot is not perfectly  straight, which means marks doesn't only depend on study hours."
    ]
   }
  ],
