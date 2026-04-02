@@ -1,4 +1,4 @@
-# Student-Lifestyle-vs-Performance-Analysis
+# Student Lifestyle vs Performance Analysis
 This project is based on a dataset created by me,analysing students lifesyle and performance.
 
 # Project Overview
