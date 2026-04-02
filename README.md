@@ -1,11 +1,10 @@
 # Student-Lifestyle-vs-Performance-Analysis
+This project is based on a dataset created by me,analysing students lifesyle and performance.
 
 # Project Overview
 This project shows how different lifestyle habits of students (like study,sleep,and social media) affect their academic performance.
 
 # Dataset
-This dataset was created by me to represent real life student behavior and performance.
-
 It includes:
 Study hours  
 Sleep hours  
