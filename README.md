@@ -1,40 +1,31 @@
-# Student Lifestyle vs Performance Analysis
-This project is based on a dataset created by me,analysing students lifesyle and performance.
-
-# Project Overview
-This project shows how different lifestyle habits of students (like study,sleep,and social media) affect their academic performance.
-
-# Dataset
-It includes:
-Study hours  
-Sleep hours  
-Social media usage  
-Attendance  
-Marks  
-Stress level  
+# Student Lifestyle vs Performance Analysis And Power BI Dashboard
+This project analyzes the relationship between student lifestyle factors and academic performance using Exploratory Data Analysis (EDA) and Power BI.
+# Dataset The dataset was self-created and includes:
+Study Hours
+Sleep Hours
+Social Media Hours
+Attendance
+Stress Level
 Category (Topper/Average/Low)
-
-# Analysis Performed
-Data cleaning and basic analysis using Python(Pandas)  
-Created graphs like bar charts,pie chart,and scatter plots  
-Compared different student categories  
-
-# Key Insights
-Students who study more usually score higher  
-More social media usage is linked with lower marks  
-Balanced lifestyle leads to average or good performance  
-Attendance also affects marks  
-Some exceptions are also present  
-
+Marks 
 # Tools Used
-Python  
-Pandas  
-Matplotlib  
-Jupyter Notebook  
-
-# Files in Repository
-Student Lifestyle vs Performance Analysis.csv is the dataset  
-student lifestyle vs performance analysis.ipynb is the analysis notebook  
-
-# Conclusion
-This project shows that student performance depends on multiple factors like study habits,attendance,and lifestyle.
+Python
+Pandas
+Matplotlib
+Jupyter Notebook
+Power BI
+Excel 
+# Dashboard Features
+Study Hours vs Marks scatter plot
+Social Media Usage vs Marks scatter plot
+Average Marks KPI card
+Category wise performance comparison (topper/average/low)
+# Key Insights
+Higher study hours are associated with better marks.
+Increased social media usage tends to correlate with lower marks.
+Topper-category students show significantly higher average scores.
+# Files
+Dashboard.pbix is the Power BI Dashboard file.
+Dashboard Screenshot.png is the Dashboard preview image.
+Student Lifestyle vs Performance Analysis.csv is the source dataset
+student lifestyle vs performance analysis.ipynb is the Jupyter Notebook (EDA)
